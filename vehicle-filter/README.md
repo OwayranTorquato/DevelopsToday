@@ -23,7 +23,7 @@ This project allows filtering vehicle models based on year and make. It uses the
 
 ### Prerequisites
 
-- Node.js (version 14 or above)
+- Node.js (version 15 or above)
 - NPM (Node package manager)
 
 ### Questions and Technical Discussions
